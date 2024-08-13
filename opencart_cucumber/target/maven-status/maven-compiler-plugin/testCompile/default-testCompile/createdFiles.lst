@@ -10,4 +10,5 @@ pageObjects\BasePage.class
 testRunner\TestRunner.class
 pageObjects\SearchPage.class
 factory\BaseClass.class
+hooks\Hooks.class
 utilities\DataReader.class
